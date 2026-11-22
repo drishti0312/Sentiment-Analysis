@@ -8,7 +8,7 @@ This application analyzes user-entered text and predicts whether the sentiment o
 
 It runs directly in the terminal and uses a pretrained model from Hugging Face.
 
-## Tech Stack
+Tech Stack
 python 3.12
 PyTorch
 Hugging Face Transformer
